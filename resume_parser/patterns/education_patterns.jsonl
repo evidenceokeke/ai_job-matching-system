@@ -1,0 +1,23 @@
+{"label": "EDUCATION", "pattern": [{"LOWER": "bsc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "msc"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "phd"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mba"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelors"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "masters"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "doctorate"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}, {"LOWER": "of"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}, {"LOWER": "of"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}, {"LOWER": "of"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}, {"LOWER": "of"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}, {"LOWER": "of"}, {"LOWER": "arts"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}, {"LOWER": "of"}, {"LOWER": "business"}, {"LOWER": "administration"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "bachelor"}, {"LOWER": "degree"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "master"}, {"LOWER": "degree"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "associate"}, {"LOWER": "degree"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "undergraduate"}, {"LOWER": "degree"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "graduate"}, {"LOWER": "degree"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "electrical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "mechanical"}, {"LOWER": "engineering"}]}
+{"label": "EDUCATION", "pattern": [{"LOWER": "business"}, {"LOWER": "administration"}]}
