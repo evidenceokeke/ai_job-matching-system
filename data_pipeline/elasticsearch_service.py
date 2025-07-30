@@ -174,3 +174,9 @@ class ElasticsearchService:
         except:
             return False
         # look into bulk deleting later maybe, when a user has selected more than one jobs to be deleted
+
+
+if __name__ == '__main__':
+    es = ElasticsearchService()
+    es.create_index()
+    es.bulk_index_from_db()
